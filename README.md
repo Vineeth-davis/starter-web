@@ -1,6 +1,7 @@
 # Starter Web Repo
 
-This is a website project for showing how to use Git and Github together
+This is a website project for showing how to use Git and Github together. new text.
+figuring out the difference in origin/master vs master
 
 ## Introduction
 
