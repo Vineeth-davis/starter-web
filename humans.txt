@@ -10,7 +10,8 @@
 # THANKS
 
     rebase commands from myfeature branch -- vineeth
-
+	updating before stashing
+	
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
