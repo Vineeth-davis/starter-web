@@ -23,4 +23,4 @@ Please fork this repository and then issue Pull Requests for review.
 
 ## Copyright
 
-2022 Git
+2022 Git. All Rights are Reserved
