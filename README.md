@@ -1,8 +1,7 @@
 # Starter Web Repo
 
-This is a website project for showing how to use Git and Github together. new text.
-figuring out the difference in origin/master vs master. Adding a line for rebasing example..
-checked out in myfeature branch its showing here too,-more changes in myfeature branch too
+This is a website project for showing how to use Git and Github together.
+Making changes for multiple stash example.
 
 ## Introduction
 
